@@ -10,7 +10,7 @@ obj =
     "entitlements": {
       "pro": {
         "expires_date": "2030-02-18T07:52:54Z",
-        "product_identifier": "com.circles.fin.premium.yearly",
+        "product_identifier": "com.wizeyes.colorcapture",
         "purchase_date": "2020-02-11T07:52:54Z"
       }
     },
