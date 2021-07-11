@@ -1,7 +1,7 @@
 var obj = JSON.parse($response.body);
 var bundle_id = obj.receipt["bundle_id"];
 
-if(bundle_id == "com.gear.app")
+if(bundle_id == "com.wizeyes.colorcapture")
 obj = 
 {
   "status": 0,
