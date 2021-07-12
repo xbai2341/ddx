@@ -1,7 +1,4 @@
 var obj = JSON.parse($response.body);
-var product_identifier = obj.receipt["product_identifier"];
-
-if(product_identifier == "com.circles.fin.premium.yearly")
 obj = 
 {
   "request_date": "2020-06-05T11:54:41Z",
